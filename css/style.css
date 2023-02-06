@@ -1855,14 +1855,14 @@ form label {
 }
 
 img.img-responsive.middlepic {
-  width: 896px;
-  height: 504px;
-  object-fit: fill;
-  margin: 0 auto;
-  position: relative;
-  z-index: -1;
-  top: -486px;
-  text-align: center;
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+    margin: 0 auto;
+    position: absolute;
+    z-index: -1;
+    top: -616px;
+    text-align: center;
 }
 .copuledetail {
   position: relative;
