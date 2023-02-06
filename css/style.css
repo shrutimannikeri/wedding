@@ -1877,8 +1877,9 @@ img.img-responsive-block {
     font-family: "Sacramento", Arial, serif;
     color: #F14E95;
     font-size: 30px;
-    margin-top: 4em;
-    margin-bottom: 2em;
+    margin-top: 1em;
+    margin-bottom: 6em;
+    font-weight: 900;
 }
 .heart {
     position: absolute;
