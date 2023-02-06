@@ -1855,21 +1855,20 @@ form label {
 }
 
 img.img-responsive.middlepic {
-  width: 659px;
+  width: 896px;
   height: 504px;
   object-fit: fill;
   margin: 0 auto;
   position: relative;
   z-index: -1;
-  top: -47px;
+  top: -486px;
   text-align: center;
 }
 .copuledetail {
   position: relative;
 }
-div#fh5co-couple {
-  padding: 0 !important;
-}
+
+
 img.img-responsive-block {
     width: 80%;
     margin: 0 auto;
