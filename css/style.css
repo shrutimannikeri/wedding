@@ -1889,3 +1889,12 @@ img.img-responsive-block {
     z-index: 99;
     animation: pulse 1s ease infinite;
 }
+.couple-half .groom img, .couple-half .bride img {
+    width: 150px;
+    height: 150px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius: 50%;
+    object-fit: cover;
+}
