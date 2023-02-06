@@ -1870,3 +1870,7 @@ img.img-responsive.middlepic {
 div#fh5co-couple {
   padding: 0 !important;
 }
+img.img-responsive-block {
+    width: 80%;
+    margin: 0 auto;
+}
