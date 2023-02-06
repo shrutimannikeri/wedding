@@ -1841,7 +1841,6 @@ form label {
 }
 
 /*# sourceMappingURL=style.css.map */
-
 #page {
   position: relative;
   overflow: hidden;
@@ -1853,4 +1852,21 @@ form label {
 }
 .eventmap {
   margin-top: 2em !important;
+}
+
+img.img-responsive.middlepic {
+  width: 659px;
+  height: 504px;
+  object-fit: fill;
+  margin: 0 auto;
+  position: relative;
+  z-index: -1;
+  top: -47px;
+  text-align: center;
+}
+.copuledetail {
+  position: relative;
+}
+div#fh5co-couple {
+  padding: 0 !important;
 }
